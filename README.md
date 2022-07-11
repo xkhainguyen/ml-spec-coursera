@@ -17,6 +17,6 @@ By the end of this Specialization, you will have mastered key concepts and gaine
 **Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning** 🟩
 
 ### THIS IS MY ON-GOING REPOSITORY FOR THIS COURSE (LET'S LEARN WITH [ME](https://www.linkedin.com/in/khainx/))
-It works best with the integrated Coursera Lab (a Coursera's web-based Jupyter with private graders). To run it outside, please comment unused codes.
+It works best with the integrated Coursera Lab (a Coursera's web-based Jupyter with private graders). To run it outside, please comment unused codes and dowload necessary libraries.
 
 *I have consulted many sources, especially on the discussion forum. You can use my code as a reference. Please ⭐ if you find it useful.*
