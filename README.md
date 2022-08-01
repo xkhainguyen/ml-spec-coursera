@@ -12,7 +12,7 @@ By the end of this Specialization, you will have mastered key concepts and gaine
 
 **Course 1: Supervised Machine Learning: Regression and Classification** ✅
 
-**Course 2: Advanced Learning Algorithms** 🟩
+**Course 2: Advanced Learning Algorithms** ✅
 
 **Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning** 🟩
 
