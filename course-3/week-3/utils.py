@@ -67,8 +67,9 @@ def plot_history(reward_history, rolling_window=20, lower_limit=None,
         xs = [x for x in range(lower_limit,upper_limit)]
     
     df = pd.DataFrame(rh)
-    rollingMean = df.rolling(rolling_window).mean()
-
+    rollingMean = df.rolling(rolling_window).mean() 
+    # moving average
+    
     plt.figure(figsize=(10,7), facecolor='white')
     
     if plot_rw:
